@@ -3,7 +3,6 @@
 ## Instalação
 ```
 pip install tapioca-cartola
-
 ```
 
 ## Documentação
