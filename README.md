@@ -47,7 +47,7 @@ TOTAL                             61      0   100%
 ========== 5 passed in 1.57 seconds ==============
 ```
 
-## Roadmap
+## Próximos passos
 
 * Adicionar suporte para paginação
 * Documentar endpoints com explicações e exemplos
