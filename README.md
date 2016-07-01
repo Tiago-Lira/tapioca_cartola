@@ -28,7 +28,7 @@ cartola_api.auth_time().get()
 
 ```
 
-### Testes e Cobertura de testes
+## Testes e Cobertura de testes
 
 Caso queira rodar os testes de login e senha, é necessário
 definir duas variáveis de ambiente.: `CARTOLA_EMAIL` e `CARTOLA_PASSWORD`.
@@ -46,6 +46,14 @@ TOTAL                             61      0   100%
 
 ========== 5 passed in 1.57 seconds ==============
 ```
+
+## Roadmap
+
+* Adicionar suporte para paginação
+* Documentar endpoints com explicações e exemplos
+* Adicionar compatibilidade com Python3
+
+---
 
 No more documentation needed.
 
