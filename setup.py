@@ -74,6 +74,7 @@ setup(
     author=get_author(package),
     author_email=get_email(package),
     url='https://github.com/Tiago-Lira/tapioca_cartola',
+    download_url='https://github.com/Tiago-Lira/tapioca_cartola/tarball/0.1.0',
     packages=[
         'tapioca_cartola',
     ],
