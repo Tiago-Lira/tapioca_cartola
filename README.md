@@ -52,6 +52,10 @@ TOTAL                             61      0   100%
 * Documentar endpoints com explicações e exemplos
 * Adicionar compatibilidade com Python3
 
+
+## Contribuindo
+Utilize a aba de "Issues" ou crie um fork e faça um pull-request!
+
 ---
 
 Caso tenha dúvidas de como utilizar a biblioteca, acesse a documentação do [Tapioca Wrapper](http://tapioca-wrapper.readthedocs.org/en/stable/quickstart.html)
