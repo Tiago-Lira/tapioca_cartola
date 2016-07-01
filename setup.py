@@ -73,7 +73,7 @@ setup(
     long_description=readme,
     author=get_author(package),
     author_email=get_email(package),
-    url='https://github.com/Tiago-Lira/tapioca-cartola',
+    url='https://github.com/Tiago-Lira/tapioca_cartola',
     packages=[
         'tapioca_cartola',
     ],
