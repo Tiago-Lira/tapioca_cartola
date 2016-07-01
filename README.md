@@ -55,8 +55,4 @@ TOTAL                             61      0   100%
 
 ---
 
-No more documentation needed.
-
-- Learn how Tapioca works [here](http://tapioca-wrapper.readthedocs.org/en/stable/quickstart.html)
-- Explore this package using iPython
-- Have fun!
+Caso tenha dúvidas de como utilizar a biblioteca, acesse a documentação do [Tapioca Wrapper](http://tapioca-wrapper.readthedocs.org/en/stable/quickstart.html)
